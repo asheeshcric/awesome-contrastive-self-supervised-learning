@@ -6,11 +6,13 @@
 
 - [ ] [2020: Deep Graph Contrastive Representation Learning](https://arxiv.org/abs/2006.04131v1)
 - [ ] [2020: CLOCS: Contrastive Learning of Cardiac Signals](https://arxiv.org/abs/2005.13249v1)
-- [ ] [2020: Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297v1)
 - [ ] [2020: On Mutual Information in Contrastive Learning for Visual Representations](https://arxiv.org/abs/2005.13149v2)
 - [ ] [2020: What makes for good views for contrastive learning](https://arxiv.org/abs/2005.10243v1)
+- [ ] [2020: CURL: Contrastive Unsupervised Representations for Reinforcement Learning](https://arxiv.org/abs/2004.04136v2)
+- [ ] [2020: Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362v1)
+- [ ] [2020: Clustering based Contrastive Learning for Improving Face Representations](https://arxiv.org/abs/2004.02195v1)
 - [ ] [2020: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf)
-
+- [ ] [2020: Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297v1)
 
 #### 2019
 
