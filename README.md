@@ -16,6 +16,7 @@
 
 #### 2019
 
+- [ ] [2019: Transferable Contrastive Network for Generalized Zero-Shot Learning](https://arxiv.org/abs/1908.05832v1)
 - [ ] [2019: MoCo: Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
 - [ ] [2019: Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/pdf/1912.01991.pdf)
 - [ ] [2019: Selfie: Self-supervised Pretraining for Image Embedding](https://arxiv.org/abs/1906.02940)
