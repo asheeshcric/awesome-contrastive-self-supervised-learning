@@ -4,6 +4,19 @@
 
 #### 2020
 
+- [ ] [2020: Spatiotemporal Contrastive Video Representation Learning](https://arxiv.org/abs/2008.03800)
+- [ ] [2020: Augmented Skeleton Based Contrastive Action Learning with Momentum LSTM for Unsupervised Action Recognition](https://arxiv.org/abs/2008.00188)
+- [ ] [2020: Deep Robust Clustering by Contrastive Learning](https://arxiv.org/abs/2008.03030)
+- [ ] [2020: Contrastive Learning for Unpaired Image-to-Image Translation](https://arxiv.org/abs/2007.15651)
+- [ ] [2020: Demystifying Contrastive Self-Supervised Learning: Invariances, Augmentations and Dataset Biases](https://arxiv.org/abs/2007.13916)
+- [ ] [2020: What Should Not Be Contrastive in Contrastive Learning](https://arxiv.org/abs/2008.05659)
+- [ ] [2020: Self-supervised Video Representation Learning Using Inter-intra Contrastive Framework](https://arxiv.org/abs/2008.02531)
+- [ ] [2020: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/abs/2006.09882)
+- [ ] [2020: Prototypical Contrastive Learning of Unsupervised Representations](https://arxiv.org/abs/2005.04966)
+- [ ] [2020: GraphCL: Contrastive Self-Supervised Learning of Graph Representations](https://arxiv.org/abs/2007.08025)
+- [ ] [2020: DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659)
+- [ ] [2020: Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models](https://arxiv.org/abs/2005.10389)
+- [ ] [2020: CERT: Contrastive Self-supervised Learning for Language Understanding](https://arxiv.org/abs/2005.12766)
 - [ ] [2020: Deep Graph Contrastive Representation Learning](https://arxiv.org/abs/2006.04131v1)
 - [ ] [2020: CLOCS: Contrastive Learning of Cardiac Signals](https://arxiv.org/abs/2005.13249v1)
 - [ ] [2020: On Mutual Information in Contrastive Learning for Visual Representations](https://arxiv.org/abs/2005.13149v2)
@@ -16,14 +29,17 @@
 
 #### 2019
 
+- [ ] [2019: Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/abs/1911.05371)
 - [ ] [2019: Transferable Contrastive Network for Generalized Zero-Shot Learning](https://arxiv.org/abs/1908.05832v1)
 - [ ] [2019: MoCo: Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
 - [ ] [2019: Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/pdf/1912.01991.pdf)
 - [ ] [2019: Selfie: Self-supervised Pretraining for Image Embedding](https://arxiv.org/abs/1906.02940)
+- [ ] [2019: Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
 - [ ] [2019: Local Aggregation for Unsupervised Learning of Visual Embeddings](https://arxiv.org/abs/1903.12355)
 - [ ] [2019: Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849)
 - [ ] [2019: Unsupervised Embedding Learning via Invariant and Spreading Instance Feature](https://arxiv.org/abs/1904.03436)
 - [ ] [2019: Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/abs/1807.06653)
+- [ ] [2019: A Theoretical Analysis of Contrastive Unsupervised Representation Learning](https://arxiv.org/abs/1902.09229)
 
 #### 2018
 
@@ -31,10 +47,13 @@
 - [ ] [2018: Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
 - [ ] [2018: Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination](https://arxiv.org/abs/1805.01978)
 
-#### 2017
+#### 2017 and Older
 
 - [ ] [2017: Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/abs/1704.06888)
 - [ ] [2017: Multi-task Self-Supervised Visual Learning](https://arxiv.org/abs/1708.07860)
+- [ ] [2017: Unsupervisedlearning  of  visual  representations  by  solving  jigsawpuzzles](https://arxiv.org/abs/1603.09246)
+- [ ] [2015: Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)
+- [ ] [2010: Noise-contrastive estimation: A new estimation principle for unnormalized statistical models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf)
 
 
 #### REFERENCES
