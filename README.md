@@ -54,7 +54,7 @@
 
 - [ ] [2017: Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/abs/1704.06888)
 - [ ] [2017: Multi-task Self-Supervised Visual Learning](https://arxiv.org/abs/1708.07860)
-- [ ] [2017: Unsupervisedlearning  of  visual  representations  by  solving  jigsawpuzzles](https://arxiv.org/abs/1603.09246)
+- [ ] [2017: Unsupervised learning  of  visual  representations  by  solving  jigsawpuzzles](https://arxiv.org/abs/1603.09246)
 - [ ] [2015: Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)
 - [ ] [2010: Noise-contrastive estimation: A new estimation principle for unnormalized statistical models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf)
 
