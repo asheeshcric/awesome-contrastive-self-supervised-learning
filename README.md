@@ -8,6 +8,7 @@
 #### 2020
 
 - [ ] [2020: Are all negatives created equal in contrastive instance discrimination?](https://arxiv.org/abs/2010.06682)
+- [ ] [2020: Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)
 - [ ] [2020: Spatiotemporal Contrastive Video Representation Learning](https://arxiv.org/abs/2008.03800)
 - [ ] [2020: Augmented Skeleton Based Contrastive Action Learning with Momentum LSTM for Unsupervised Action Recognition](https://arxiv.org/abs/2008.00188)
 - [ ] [2020: Deep Robust Clustering by Contrastive Learning](https://arxiv.org/abs/2008.03030)
