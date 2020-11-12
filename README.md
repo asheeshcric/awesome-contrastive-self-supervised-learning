@@ -44,6 +44,7 @@
 - [ ] [2019: Selfie: Self-supervised Pretraining for Image Embedding](https://arxiv.org/abs/1906.02940)
 - [ ] [2019: Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
 - [ ] [2019: Local Aggregation for Unsupervised Learning of Visual Embeddings](https://arxiv.org/abs/1903.12355)
+- [ ] [2019: Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910)
 - [ ] [2019: Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849)
 - [ ] [2019: Unsupervised Embedding Learning via Invariant and Spreading Instance Feature](https://arxiv.org/abs/1904.03436)
 - [ ] [2019: Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/abs/1807.06653)
