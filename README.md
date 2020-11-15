@@ -9,6 +9,7 @@
 
 - [ ] [2020: A Survey on Contrastive Self-Supervised Learning](https://arxiv.org/abs/2011.00362)
 - [ ] [2020: Hard Negative Mixing for Contrastive Learning](https://arxiv.org/abs/2010.01028)
+- [ ] [2020: Representation Learning via Invariant Causal Mechanisms](https://arxiv.org/abs/2010.07922)
 - [ ] [2020: Contrastive Representation Learning: A Framework and Review](https://arxiv.org/abs/2010.05113)
 - [ ] [2020: Are all negatives created equal in contrastive instance discrimination?](https://arxiv.org/abs/2010.06682)
 - [ ] [2020: Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)
