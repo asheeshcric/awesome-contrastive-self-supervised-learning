@@ -7,6 +7,7 @@
 
 #### 2020
 
+- [ ] [2020: Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566) 
 - [ ] [2020: A Survey on Contrastive Self-Supervised Learning](https://arxiv.org/abs/2011.00362)
 - [ ] [2020: Hard Negative Mixing for Contrastive Learning](https://arxiv.org/abs/2010.01028)
 - [ ] [2020: Representation Learning via Invariant Causal Mechanisms](https://arxiv.org/abs/2010.07922)
