@@ -12,6 +12,7 @@
 
 #### 2020
 
+- [ ] [2020: CASTing Your Model: Learning to Localize Improves Self-Supervised Representations](https://arxiv.org/pdf/2012.04630.pdf)
 - [ ] [2020: Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566)
 - [ ] [2020: FROST: Faster and more Robust One-shot Semi-supervised Training](https://arxiv.org/abs/2011.09471)
 - [ ] [2020: Hard Negative Mixing for Contrastive Learning](https://arxiv.org/abs/2010.01028)
