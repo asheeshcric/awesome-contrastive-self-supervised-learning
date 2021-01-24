@@ -10,6 +10,11 @@
 - [ ] [2020: A Survey on Contrastive Self-Supervised Learning](https://arxiv.org/abs/2011.00362)
 - [ ] [2020: Contrastive Representation Learning: A Framework and Review](https://arxiv.org/abs/2010.05113)
 
+
+#### 2021
+
+- [ ] [2021: Temporal Contrastive Graph for Self-supervised Video Representation Learning](https://arxiv.org/abs/2101.00820)
+
 #### 2020
 
 - [ ] [2020: Online Bag-of-Visual-Words Generation for Unsupervised Representation Learning](https://arxiv.org/abs/2012.11552)
