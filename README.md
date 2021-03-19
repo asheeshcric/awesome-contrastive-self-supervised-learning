@@ -13,6 +13,7 @@
 
 #### 2021
 
+- [ ] [2021: Self-supervised Pretraining of Visual Features in the Wild](https://arxiv.org/abs/2103.01988)
 - [ ] [2021: Temporal Contrastive Graph for Self-supervised Video Representation Learning](https://arxiv.org/abs/2101.00820)
 
 #### 2020
