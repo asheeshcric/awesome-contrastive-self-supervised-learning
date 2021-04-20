@@ -13,6 +13,7 @@
 
 #### 2021
 
+- [ ] [2021: Contrastive Learning with Stronger Augmentations](https://arxiv.org/abs/2104.07713v1)
 - [ ] [2021: How Well Do Self-Supervised Models Transfer?](https://arxiv.org/abs/2011.13377)
 - [ ] [2021: Self-supervised Pretraining of Visual Features in the Wild](https://arxiv.org/abs/2103.01988)
 - [ ] [2021: VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples](https://arxiv.org/abs/2103.05905v2)
