@@ -22,6 +22,7 @@
 
 #### 2020
 
+- [ ] [2020: Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://arxiv.org/abs/2006.07529)
 - [ ] [2020: Online Bag-of-Visual-Words Generation for Unsupervised Representation Learning](https://arxiv.org/abs/2012.11552)
 - [ ] [2020: Social NCE: Contrastive Learning of Socially-aware Motion Representations](https://arxiv.org/abs/2012.11717)
 - [ ] [2020: CASTing Your Model: Learning to Localize Improves Self-Supervised Representations](https://arxiv.org/pdf/2012.04630.pdf)
