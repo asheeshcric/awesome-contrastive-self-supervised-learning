@@ -8,7 +8,6 @@
 #### Surveys and Reviews
 
 - [ ] [2020: A Survey on Contrastive Self-Supervised Learning](https://arxiv.org/abs/2011.00362)
-- [ ] [2020: Contrastive Representation Learning: A Framework and Review](https://arxiv.org/abs/2010.05113)
 
 
 #### 2021
