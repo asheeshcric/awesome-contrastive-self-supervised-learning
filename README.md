@@ -12,6 +12,7 @@
 
 #### 2021
 
+- [ ] [2021: Contrastive Semi-Supervised Learning for 2D Medical Image Segmentation](https://arxiv.org/abs/2106.06801)
 - [ ] [2021: Contrastive Learning with Stronger Augmentations](https://arxiv.org/abs/2104.07713v1)
 - [ ] [2021: Dual Contrastive Learning for Unsupervised Image-to-Image Translation](https://arxiv.org/abs/2104.07689v1)
 - [ ] [2021: How Well Do Self-Supervised Models Transfer?](https://arxiv.org/abs/2011.13377)
