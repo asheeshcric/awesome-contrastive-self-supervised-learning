@@ -12,6 +12,7 @@
 
 #### 2021
 
+- [ ] [2021: Self-Paced Contrastive Learning for Semi-supervised Medical Image Segmentation with Meta-labels](https://arxiv.org/abs/2107.13741v1)
 - [ ] [2021: Understanding Cognitive Fatigue from fMRI Scans with Self-supervised Learning](https://arxiv.org/abs/2106.15009)
 - [ ] [2021: A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning
 ](https://arxiv.org/abs/2104.14558)
