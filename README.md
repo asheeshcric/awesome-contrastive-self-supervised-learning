@@ -61,6 +61,7 @@
 
 #### 2019
 
+- [ ] [2019: Unsupervised Scene Adaptation with Memory Regularization in vivo](https://arxiv.org/abs/1912.11164)
 - [ ] [2019: Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/abs/1911.05371)
 - [ ] [2019: Transferable Contrastive Network for Generalized Zero-Shot Learning](https://arxiv.org/abs/1908.05832v1)
 - [ ] [2019: MoCo: Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
