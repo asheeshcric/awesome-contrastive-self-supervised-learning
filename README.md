@@ -90,9 +90,3 @@
 - [ ] [2017: Unsupervised learning  of  visual  representations  by  solving  jigsawpuzzles](https://arxiv.org/abs/1603.09246)
 - [ ] [2015: Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)
 - [ ] [2010: Noise-contrastive estimation: A new estimation principle for unnormalized statistical models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf)
-
-
-#### REFERENCES
-
-- [Blog: Contrastive Self-Supervised Learning](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
-- [Github: Awesome-Contrastive-Learning](https://github.com/HobbitLong/PyContrast/blob/master/AWESOME_CONTRASTIVE_LEARNING.md)
