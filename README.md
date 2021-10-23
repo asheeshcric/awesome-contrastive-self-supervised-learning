@@ -11,6 +11,7 @@
 
 
 #### 2021
+- [ ] [2021: VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://arxiv.org/pdf/2105.04906.pdf)
 - [ ] [2021: Poisoning and Backdooring Contrastive Learning](https://arxiv.org/abs/2106.09667)
 - [ ] [2021: Self-Paced Contrastive Learning for Semi-supervised Medical Image Segmentation with Meta-labels](https://arxiv.org/abs/2107.13741v1)
 - [ ] [2021: Understanding Cognitive Fatigue from fMRI Scans with Self-supervised Learning](https://arxiv.org/abs/2106.15009)
