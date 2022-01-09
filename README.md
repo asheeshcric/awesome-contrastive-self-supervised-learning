@@ -11,6 +11,7 @@
 
 
 #### 2021
+- [ ] [2021: Robust Contrastive Learning Using Negative Samples with Diminished Semantics](https://arxiv.org/abs/2110.14189)
 - [ ] [2021: VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://arxiv.org/pdf/2105.04906.pdf)
 - [ ] [2021: Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/pdf/2103.03230.pdf)
 - [ ] [2021: Poisoning and Backdooring Contrastive Learning](https://arxiv.org/abs/2106.09667)
