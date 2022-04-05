@@ -11,10 +11,12 @@
 
 
 #### 2022
+- [ ] [2022: Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection](https://arxiv.org/abs/2203.12121)
 - [ ] [2022: Fair Contrastive Learning for Facial Attribute Classification (FSCL)](https://arxiv.org/abs/2203.16209)
 
 
 #### 2021
+- [ ] [2021: Constrained Contrastive Distribution Learning for Unsupervised Anomaly Detection and Localisation in Medical Images](https://arxiv.org/abs/2103.03423)
 - [ ] [2021: Robust Contrastive Learning Using Negative Samples with Diminished Semantics](https://arxiv.org/abs/2110.14189)
 - [ ] [2021: VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://arxiv.org/pdf/2105.04906.pdf)
 - [ ] [2021: Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/pdf/2103.03230.pdf)
