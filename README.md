@@ -16,6 +16,7 @@
 
 
 #### 2021
+- [ ] [2021: Learning Transferable Visual Models From Natural Language Supervision (CLIP)](http://proceedings.mlr.press/v139/radford21a)
 - [ ] [2021: Constrained Contrastive Distribution Learning for Unsupervised Anomaly Detection and Localisation in Medical Images](https://arxiv.org/abs/2103.03423)
 - [ ] [2021: Robust Contrastive Learning Using Negative Samples with Diminished Semantics](https://arxiv.org/abs/2110.14189)
 - [ ] [2021: VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://arxiv.org/pdf/2105.04906.pdf)
