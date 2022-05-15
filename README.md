@@ -34,6 +34,8 @@
 - [ ] [2021: Self-supervised Pretraining of Visual Features in the Wild](https://arxiv.org/abs/2103.01988)
 - [ ] [2021: VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples](https://arxiv.org/abs/2103.05905v2)
 - [ ] [2021: Temporal Contrastive Graph for Self-supervised Video Representation Learning](https://arxiv.org/abs/2101.00820)
+- [ ] [2021: Active Learning by Acquiring Contrastive Examples](https://arxiv.org/abs/2109.03764)
+- [ ] [2021: Active Contrastive Learning of Audio-Visual Video Representations](https://arxiv.org/abs/2009.09805)
 
 #### 2020
 
@@ -69,6 +71,7 @@
 - [ ] [2020: Clustering based Contrastive Learning for Improving Face Representations](https://arxiv.org/abs/2004.02195v1)
 - [ ] [2020: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf)
 - [ ] [2020: Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297v1)
+- [ ] [2020: ALICE: Active Learning with Contrastive Natural Language Explanations](https://arxiv.org/abs/2009.10259)
 
 #### 2019
 
