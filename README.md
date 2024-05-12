@@ -22,6 +22,7 @@
 
 
 #### 2024
+- [ ] [2024: Demonstrating and Reducing Shortcuts in Vision-Language Representation Learning](https://arxiv.org/abs/2402.17510) [[Code]](https://github.com/MauritsBleeker/svl-framework)
 - [ ] [2024: VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis](https://arxiv.org/abs/2402.17300) [[Code]](https://github.com/Luffy03/VoCo)
 
 #### 2023
