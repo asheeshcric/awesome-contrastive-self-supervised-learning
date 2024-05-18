@@ -3,16 +3,6 @@
 # Awesome CONTRASTIVE LEARNING [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > A comprehensive list of awesome contrastive self-supervised learning papers.
 
-## Star History
-
-<a href="https://star-history.com/#asheeshcric/awesome-contrastive-self-supervised-learning&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=asheeshcric/awesome-contrastive-self-supervised-learning&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=asheeshcric/awesome-contrastive-self-supervised-learning&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=asheeshcric/awesome-contrastive-self-supervised-learning&type=Date" />
-  </picture>
-</a>
-
 
 ## PAPERS
 
@@ -122,3 +112,14 @@
 - [ ] [2017: Unsupervised learning  of  visual  representations  by  solving  jigsawpuzzles](https://arxiv.org/abs/1603.09246)
 - [ ] [2015: Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)
 - [ ] [2010: Noise-contrastive estimation: A new estimation principle for unnormalized statistical models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf)
+
+
+## Star History
+
+<a href="https://star-history.com/#asheeshcric/awesome-contrastive-self-supervised-learning&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=asheeshcric/awesome-contrastive-self-supervised-learning&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=asheeshcric/awesome-contrastive-self-supervised-learning&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=asheeshcric/awesome-contrastive-self-supervised-learning&type=Date" />
+  </picture>
+</a>
