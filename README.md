@@ -12,21 +12,25 @@
 
 
 #### 2024
+- [ ] [2024: Topic Modeling as Multi-Objective Contrastive Optimization](https://arxiv.org/abs/2402.07577)
 - [ ] [2024: Demonstrating and Reducing Shortcuts in Vision-Language Representation Learning](https://arxiv.org/abs/2402.17510) [[Code]](https://github.com/MauritsBleeker/svl-framework)
 - [ ] [2024: VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis](https://arxiv.org/abs/2402.17300) [[Code]](https://github.com/Luffy03/VoCo)
 - [ ] [2024: Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning](https://arxiv.org/abs/2407.02014) [[Code]](https://github.com/visresearch/mgc)
+- [ ] [2024: Kdmcse: Knowledge distillation multimodal sentence embeddings with adaptive angular margin contrastive learning](https://arxiv.org/abs/2403.17486) [[Code]](https://github.com/duyngtr16061999/kdmcse)
 
 #### 2023
+- [ ] [2023: Improving multimodal sentiment analysis: Supervised angular margin-based contrastive learning for enhanced fusion representation](https://aclanthology.org/2023.findings-emnlp.980/)
 - [ ] [2023: Inter-Instance Similarity Modeling for Contrastive Learning](https://arxiv.org/abs/2306.12243) [[Code]](https://github.com/visresearch/patchmix)
 - [ ] [2023: Asymmetric Patch Sampling for Contrastive Learning](https://arxiv.org/abs/2306.02854) [[Code]](https://github.com/visresearch/aps)
 - [ ] [2023: Randomized Schur Complement Views for Graph Contrastive Learning](https://arxiv.org/abs/2306.04004) [[Code]](https://github.com/kvignesh1420/rlap)
 
 #### 2022
+- [ ] [2022: Adaptive Contrastive Learning on Multimodal Transformer for Review Helpfulness Predictions](https://arxiv.org/abs/2211.03524) [[Code]](https://github.com/nguyentthong/adaptive_contrastive_mrhp)
 - [ ] [2022: Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection](https://arxiv.org/abs/2203.12121)
 - [ ] [2022: Fair Contrastive Learning for Facial Attribute Classification (FSCL)](https://arxiv.org/abs/2203.16209)
 
-
 #### 2021
+- [ ] [2021: Contrastive Learning for Neural Topic Model](https://arxiv.org/abs/2110.12764) [[Code]](https://github.com/nguyentthong/CLNTM)
 - [ ] [2021: Learning Transferable Visual Models From Natural Language Supervision (CLIP)](http://proceedings.mlr.press/v139/radford21a)
 - [ ] [2021: Constrained Contrastive Distribution Learning for Unsupervised Anomaly Detection and Localisation in Medical Images](https://arxiv.org/abs/2103.03423)
 - [ ] [2021: Robust Contrastive Learning Using Negative Samples with Diminished Semantics](https://arxiv.org/abs/2110.14189)
@@ -36,8 +40,7 @@
 - [ ] [2021: Adversarial Attacks are Reversible with Natural Supervision](https://arxiv.org/abs/2103.14222)
 - [ ] [2021: Self-Paced Contrastive Learning for Semi-supervised Medical Image Segmentation with Meta-labels](https://arxiv.org/abs/2107.13741v1)
 - [ ] [2021: Understanding Cognitive Fatigue from fMRI Scans with Self-supervised Learning](https://arxiv.org/abs/2106.15009)
-- [ ] [2021: A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning
-](https://arxiv.org/abs/2104.14558)
+- [ ] [2021: A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning](https://arxiv.org/abs/2104.14558)
 - [ ] [2021: Contrastive Semi-Supervised Learning for 2D Medical Image Segmentation](https://arxiv.org/abs/2106.06801)
 - [ ] [2021: Contrastive Learning with Stronger Augmentations](https://arxiv.org/abs/2104.07713v1)
 - [ ] [2021: Dual Contrastive Learning for Unsupervised Image-to-Image Translation](https://arxiv.org/abs/2104.07689v1)
