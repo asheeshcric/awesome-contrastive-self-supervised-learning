@@ -8,8 +8,10 @@
 
 #### Surveys and Reviews
 
-- [ ] [2020: A Survey on Contrastive Self-Supervised Learning](https://arxiv.org/abs/2011.00362)
+- [ ] [2025: Beyond Random Augmentations: Pretraining with Hard Views](https://arxiv.org/abs/2310.03940)
 
+#### 2025
+- [ ] [2024: Topic Modeling as Multi-Objective Contrastive Optimization](https://arxiv.org/abs/2402.07577)
 
 #### 2024
 - [ ] [2024: Topic Modeling as Multi-Objective Contrastive Optimization](https://arxiv.org/abs/2402.07577)
