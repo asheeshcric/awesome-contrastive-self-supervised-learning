@@ -4,6 +4,7 @@
 > A comprehensive list of awesome contrastive self-supervised learning papers.
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for contrastive learning workflow orchestration, automated representation learning management, and multi-agent coordination. MIT licensed.
 ## PAPERS
 
 #### Surveys and Reviews
